@@ -547,7 +547,7 @@ h3{
     text-align: right;
 }
 #major ul li :hover {
-    opacity: 0.5;
+    opacity: 0.7;
     transition:0.3s;
 }
 #major ul li :hover b{
